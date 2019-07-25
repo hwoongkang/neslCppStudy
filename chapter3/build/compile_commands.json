@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/forCoding/cppStudy/chapter3/build",
+  "command": "C:\\Users\\Hyunwoong\\Desktop\\MinGWCompiler\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\chapter3.dir\\chapter3.cpp.obj -c D:\\forCoding\\cppStudy\\chapter3\\chapter3.cpp",
+  "file": "D:/forCoding/cppStudy/chapter3/chapter3.cpp"
+}
+]

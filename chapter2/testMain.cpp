@@ -1,6 +1,13 @@
-#include "header/myHeader.h"
+#include <sstream>
+#include <string>
+#include <iostream>
+#include <Eigen/Dense>
+#include <cmath>
+
+using namespace std;
+using namespace Eigen;
 
 int main(){
-    woong::printHello();
-    return 0;
+    Matrix<double, 5, 5> Q;
+    cout<<Q<<endl;
 }
