@@ -3,3 +3,9 @@
 *.exe
 *.out
 *.dSYM
+**/CMakeLists.txt
+**/Makefile
+**/CmakeFiles/
+**/CmakeCache.txt
+**/cmake_install.cmake
+chapter3/

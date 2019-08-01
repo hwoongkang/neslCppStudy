@@ -1,5 +1,5 @@
 #include <iostream>
-#include "ticTacToeHeaders/Gameboard.h"
+#include "Gameboard.h"
 using namespace std;
 
 int main(){

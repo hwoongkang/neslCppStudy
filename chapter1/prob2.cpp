@@ -3,8 +3,7 @@
 void swap(int * num1, int * num2);
 void swap(char * ch1, char * ch2);
 void swap(double * db1, double * db2);
-
-
+hgtrewqn ge1`   q4321`      1`51t4321`  6er5x
 int main(void){
     int num1=20, num2=30;
     swap(&num1, &num2);
