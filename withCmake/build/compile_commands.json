@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/forCoding/cppStudy/withCmake/build",
+  "command": "C:\\Users\\Hyunwoong\\Desktop\\MinGWCompiler\\mingw64\\bin\\g++.exe    -g   -o CMakeFiles\\main.dir\\ticTacToeMain.cpp.obj -c D:\\forCoding\\cppStudy\\withCmake\\ticTacToeMain.cpp",
+  "file": "D:/forCoding/cppStudy/withCmake/ticTacToeMain.cpp"
+},
+{
+  "directory": "D:/forCoding/cppStudy/withCmake/build",
+  "command": "C:\\Users\\Hyunwoong\\Desktop\\MinGWCompiler\\mingw64\\bin\\g++.exe    -g   -o CMakeFiles\\main.dir\\ticTacToeHeaders\\Gameboard.cpp.obj -c D:\\forCoding\\cppStudy\\withCmake\\ticTacToeHeaders\\Gameboard.cpp",
+  "file": "D:/forCoding/cppStudy/withCmake/ticTacToeHeaders/Gameboard.cpp"
+}
+]

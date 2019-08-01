@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/forCoding/cppStudy/withCmake/ticTacToeHeaders/Gameboard.cpp
+Gameboard.h
+D:/forCoding/cppStudy/withCmake/ticTacToeHeaders/Gameboard.h
+
+D:/forCoding/cppStudy/withCmake/ticTacToeHeaders/Gameboard.h
+iostream
+-
+string
+-
+
+D:/forCoding/cppStudy/withCmake/ticTacToeMain.cpp
+iostream
+-
+ticTacToeHeaders/Gameboard.h
+D:/forCoding/cppStudy/withCmake/ticTacToeHeaders/Gameboard.h
+
